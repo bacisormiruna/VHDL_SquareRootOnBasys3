@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ProjectSquareRoot_Bacisor_Miruna.srcs/sources_1/new/sqrt.vhd" \
+"../../../../ProjectSquareRoot_Bacisor_Miruna.srcs/sources_1/new/tb_sqrt.vhd" \
+
+# Do not sort compile order
+nosort
